@@ -11,4 +11,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Master/Main.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/RyeongScene_01.unity
+    guid: d01fa52b7f6ca429d8ae5b25eedd555e
+  - enabled: 1
+    path: Assets/Scenes/younsooScene_02.unity
+    guid: 83f9cbb08ecb9404fa8d9de58fc35347
+  - enabled: 1
+    path: Assets/Scenes/godzillaScene_03.unity
+    guid: 844733ff4b05540d8acd2b1c68eea19f
+  - enabled: 1
+    path: Assets/Scenes/godzillaScene_04.unity
+    guid: 29e3242152c6145bea543e1f7f8e70d7
+  - enabled: 1
+    path: Assets/Scenes/godzillaScene_05.unity
+    guid: 8dbdd7adb4ec64cf5a9d364b5f14e869
   m_configObjects: {}
